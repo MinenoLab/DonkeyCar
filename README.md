@@ -9,7 +9,7 @@
 マニュアルは随時更新していきます．
 
 ![a](車両.jpg)
-![a](配線.jpg)
+![a](配線図.jpg)
 ## Equipment
 
 RaspberryPi 4 B
