@@ -10,6 +10,15 @@
 
 ![a](車両.jpg)
 ![a](配線図.png)
+
+## requirements
+
+Python 3.8.10
+
+OpenCV 4.2.0
+
+ROS noetic
+
 ## Equipment
 
 RaspberryPi 4 B
